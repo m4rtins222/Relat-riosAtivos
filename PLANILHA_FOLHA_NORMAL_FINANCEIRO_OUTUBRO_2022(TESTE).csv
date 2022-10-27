@@ -1,0 +1,172 @@
+;;PROVENTOS;;
+ELEM.DESPESAS;CLASS.ORC;CLASS.PASS;PROVENTOS;DESCONTOS;SALDO
+VENCIMENTO BÁSICO;31.90.11.01;211110101;8293255,44;-2541341,24;5751914,2
+       adiant. ferias 40% liquido;31.90.11.01;;9192,02
+       dev. abate teto art. 37 cf s/ previd;31.90.11.01;;5428,90
+       dif. vencimento;31.90.11.01;;2161,19
+       parc.indiv.fixa-l.3172/03;31.90.11.01;;18282,30
+       parc.indiv.transit. nº 45/14;31.90.11.01;;74951,73
+       par.indiv.fixa s/p.l3172/03;31.90.11.01;;4190,90
+       subsidio;31.90.11.01;;382991,94
+       vencimento efetivo;31.90.11.01;;7796056,46
+       abate teto art. 37 cf c/ previd;31.90.11.01;;;-1497079,15
+       abate teto art. 37 cf s/ previd;31.90.11.01;;;-775575,77
+       dev. adiant. ferias 40% liquido;31.90.11.01;;;-203856,40
+       dif. abate teto art. 37 cf c/ previd;31.90.11.01;;;-4944,89
+       dif. abate teto art. 37 cf s/ previd;31.90.11.01;;;-57709,49
+       ressarcimento ao erario s/inc.-ativo;31.90.11.01;;;-2175,54
+EMPREGO EM COMISSÃO/FUNÇÃO GRATIFICADA;31.90.11.02;211110101;857840,16;-927,56;856912,6
+       dif. funcao de confiança;31.90.11.02;;108,05
+       dif. opcao 55% s/venc s/p;31.90.11.02;;72,57
+       funcao de confiança;31.90.11.02;;707091,25
+       opcao 55% s/venc s/p;31.90.11.02;;150568,29
+       dev. funcao de confiança;31.90.11.02;;;-108,05
+       dev. opcao 55% s/venc s/p;31.90.11.02;;;-819,51
+ADICIONAL POR TEMPO DE SERVIÇO (ANUÊNIO);31.90.11.04;211110101;1750972,09;;1750972,09
+       adicional tempo de servico;31.90.11.04;;1744000,43
+       dif. adicional tempo de servico;31.90.11.04;;6971,66
+ADIC. DE INSALUBRIDADE;31.90.11.07;211110101;15712,55;;15712,55
+       dif. adicional de insalubridade s/p;31.90.11.07;;15712,55
+DÉCIMO TERCEIRO SALARIO - PESSSOAL CIVIL;31.90.11.21;;201801,75;-60410,85;141390,9
+       13º salário;31.90.11.21;;129337,29
+       13º salario - cc/fc;31.90.11.21;;57165,10
+       dev. abate teto 13º salário s/ previd;31.90.11.21;;14504,85
+       dif. 13º salário;31.90.11.21;;794,51
+       abate teto 13º salário c/ previd;31.90.11.21;;;-18195,80
+       abate teto 13º salário s/ previd;31.90.11.21;;;-26915,69
+       dev. 13º salario - cc/fc;31.90.11.21;;;-14504,85
+       dif. abate teto 13º salário s/ previd;31.90.11.21;;;-794,51
+GRATIFICAÇÃO POR TITULAÇÃO - GTIT;31.90.11.23;;1060185,82;;1060185,82
+       adicional de qualificação;31.90.11.23;;1059869,36
+       dif. adicional de qualificação;31.90.11.23;;316,46
+LICENCA PREMIO ASSIDUIDADE - ATIVOS;31.90.11.25;211110104;136651,32;;136651,32
+       lic.- premio pecúnia - art. 6º lc 952/19;31.90.11.25;;136651,32
+FÉRIAS 1/3 CONTITUCIONAL ;31.90.11.32;211110103;49517,29;;49517,29
+       adicional de ferias s/p;31.90.11.32;;49440,42
+       dif. adicional de ferias s/p;31.90.11.32;;76,87
+VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA - VPNI;31.90.11.34;211110101;3320,94;;3320,94
+       vpni art.5º-lei/df nº 4584/2011;31.90.11.34;;3252,74
+       vpni decisao 3366/04;31.90.11.34;;68,20
+INCORPORAÇAO DE DÉCIMOS;31.90.11.41;211110101;260033,61;;260033,61
+       vantagem pessoal;31.90.11.41;;260033,61
+GRATIFICAÇÃO DE REPRESENTAÇÃO;31.90.11.56;211110101;853650,23;-4609,39;849040,84
+       dif. gratif. exerc.cumulat. oficios;31.90.11.56;;9850,50
+       dif. representação s/p;31.90.11.56;;371,10
+       gratificação conselheiro-corregedor;31.90.11.56;;4432,78
+       gratificação conselheiro-ouvidor;31.90.11.56;;4432,78
+       gratificação conselheiro-regente;31.90.11.56;;4432,78
+       gratificação presidente;31.90.11.56;;7092,44
+       gratificação procurador-corregedor;31.90.11.56;;4211,14
+       gratificação procurador-geral;31.90.11.56;;6737,82
+       gratificação procurador-ouvidor;31.90.11.56;;4211,14
+       gratificação vice-presidente;31.90.11.56;;4432,78
+       representação s/p;31.90.11.56;;803444,97
+       dev. representação s/p;31.90.11.56;;;-4609,39
+GRATIFICAÇÃO DE ATIVIDADE DE CONTROLE EXTERNO;31.90.11.57;211110101;233945,28;;233945,28
+       dif. gace 3% s/venc;31.90.11.57;;64,86
+       gace 3% s/venc;31.90.11.57;;233880,42
+ABONO  PERMANÊNCIA;31.90.11.95;211110101;276818,30;-7033,36;269784,94
+       abono de permanencia 13º salario c/ ir;31.90.11.95;;8075,90
+       abono de permanencia c/ ir;31.90.11.95;;263097,32
+       dif. abono de permanencia c/ ir;31.90.11.95;;5645,08
+       dev. abono de permanencia 13º salario c/ ir;31.90.11.95;;;-3723,54
+       dev. abono de permanencia c/ ir;31.90.11.95;;;-3309,82
+SUBSTITUIÇOES;31.90.16.02;;69574,11;;69574,11
+       substituicao art 58 res 10/86 s/p;31.90.16.02;;69574,11
+EXERCICIO ANTERIOR - CIVIL;31.90.92.11;;3038,60;;3038,60
+       dea - abono de permanencia c/ ir;31.90.92.11;;3038,60
+EX.ANT. RESSAR/INDEN/REST;31.90.92.94;;1988366,23;;1988366,23
+       dea - dif. licenca premio em pecunia;31.90.92.94;;1988366,23
+INDENIZACAO DE FERIAS;31.90.94.01;;146395,57;;146395,57
+       abono pecuniario;31.90.94.01;;65920,57
+       dif. abono pecuniario;31.90.94.01;;102,49
+       ferias indenizadas;31.90.94.01;;3004,28
+       ferias proporcionais;31.90.94.01;;77368,23
+LICENCA PREMIO POR ASSIDUIDADE;31.90.94.04;;1695386,92;;1695386,92
+       licenca premio em pecunia;31.90.94.04;;1695386,92
+AUXILIO ASSISTÊNCIA MÉDICA;33.90.08.11;;2567963,40;-5616,35;2562347,05
+       dif. reembolso pró-saúde;33.90.08.11;;8773,72
+       dif. reembolso pró-saúde - inativo;33.90.08.11;;12695,64
+       reembolso assist.medica domic;33.90.08.11;;178,91
+       reembolso assist.medica domic - inativo;33.90.08.11;;16,59
+       reembolso pró-saúde;33.90.08.11;;993722,03
+       reembolso pró-saúde - inativo;33.90.08.11;;1391259,53
+       reembolso pró-saúde - pensionista;33.90.08.11;;161316,98
+       desconto pró-saúde;33.90.08.11;;;-3532,42
+       desconto pró-saúde - inativo;33.90.08.11;;;-2083,93
+AUXILIO-CRECHE;33.90.08.55;;72144,08;;72144,08
+       aux.pre-escolar res.250/2013;33.90.08.55;;72144,08
+SERVIÇOS DE SELEÇÃO E APERFEIÇOAMENTO;33.90.36.10;;2645,49;;2645,49
+       dif. grat.encargo curso/concurso;33.90.36.10;;1172,25
+       grat.encargo curso/concurso;33.90.36.10;;1473,24
+AUXÍLIO ALIMENTAÇÃO  -  CIVIL;33.90.46.02;;617040,30;-10027,27;607013,03
+       auxilio alimentacao;33.90.46.02;;617040,30
+       desconto auxilio alimentacao;33.90.46.02;;;-8428,72
+       dev. auxilio alimentacao / comissionado;33.90.46.02;;;-1598,55
+AUXÍLIO TRANSPORTE;33.90.49.01;;1576,20;-1560,41;15,79
+       dif. auxilio transporte;33.90.49.01;;1576,20
+       dif. desconto auxilio transporte;33.90.49.01;;;-1560,41
+RESTITUIÇÕES DE CURSOS;33.90.93.15;;9667,62;;9667,62
+       bolsa integral de estudo/curso;33.90.93.15;;9667,62
+RESTITUIÇÕES DE SERVICOS DIVERSOS;33.90.93.17;;27840,98;;27840,98
+       indenização telef/dados;33.90.93.17;;27840,98
+PROVENTOS;DESCONTOS;SALDO
+21195344,28;2631526,43;18563817,85
+;;DESCONTOS;;
+ELEM.DESPESAS;CLASS.ORC;CLASS.CONT;PROVENTOS;DESCONTOS;SALDO
+INSS DE SERVIDORES ESTATUTÁRIOS;2.11.11.01.00;421110201;1427986,68;;1427986,68
+       dif. seg. social 13º salário - fundo financeiro;2.11.11.01.00;;;-111,23
+       dif. seg.social-fundo financeiro;2.11.11.01.00;;;-639,70
+       seg. social 13º salário - fundo financeiro;2.11.11.01.00;;;-15559,80
+       seg. social - fundo financeiro;2.11.11.01.00;;;-1411675,95
+PENSAO ALIMENTÍCIA;2.11.12.00.00;218810110;209245,05;;209245,05
+       pensao alimenticia (1);2.11.12.00.00;;;-157452,03
+       pensao alimenticia (1) - 13º salario;2.11.12.00.00;;;-3087,91
+       pensao alimenticia (1) - ferias;2.11.12.00.00;;;-4137,25
+       pensao alimenticia (2);2.11.12.00.00;;;-33952,43
+       pensao alimenticia (2) - 13º salario;2.11.12.00.00;;;-2679,52
+       pensao alimenticia (3);2.11.12.00.00;;;-4347,35
+       pensao alimenticia (4);2.11.12.00.00;;;-3288,56
+       pensao alimenticia voluntária;2.11.12.00.00;;;-300,00
+IRRF SERVIDORES;2.11.13.01.00;218820104;2395130,36;-1964,75;2393165,61
+       dev. irrf;2.11.13.01.00;;910,20
+       dev. irrf - 13º salário;2.11.13.01.00;;1054,55
+       irrf;2.11.13.01.00;;;-2363369,47
+       irrf - 13º salário;2.11.13.01.00;;;-31760,89
+OUTRAS CONSIGNAÇÕES;2.11.19.00.00;218810199;1927097,98;;1927097,98
+       afinco;2.11.19.00.00;;;-3575,00
+       assecon - amil dental;2.11.19.00.00;;;-210,25
+       assecon - asbac;2.11.19.00.00;;;-897,00
+       assecon - contribuicao;2.11.19.00.00;;;-18176,30
+       assecon - descontos diversos;2.11.19.00.00;;;-7521,35
+       assecon - sesc mensalidade;2.11.19.00.00;;;-338,00
+       assecon - uti vida;2.11.19.00.00;;;-603,68
+       assefaz - contribuição mensal;2.11.19.00.00;;;-5649,99
+       assefaz - fund. assist. serv. mf;2.11.19.00.00;;;-1160103,30
+       assefaz - seguro de vida;2.11.19.00.00;;;-10961,11
+       banco alfa - emprestimos;2.11.19.00.00;;;-16223,87
+       bb - empréstimo;2.11.19.00.00;;;-148096,80
+       bradesco - empréstimos;2.11.19.00.00;;;-42245,18
+       brb - emprestimo;2.11.19.00.00;;;-225698,46
+       brb - financeira;2.11.19.00.00;;;-5000,00
+       cef/tcdf - emprestimo;2.11.19.00.00;;;-246402,18
+       cruzeiro do sul-emprestimos;2.11.19.00.00;;;-1627,51
+       desconto judicial;2.11.19.00.00;;;-3723,45
+       dif. assecon - contribuicao;2.11.19.00.00;;;-5,50
+       dif. sindical-sind serv cldf/tcdf;2.11.19.00.00;;;-1,19
+       dif. sindireta-df 0.5% remun.bruta;2.11.19.00.00;;;-2,66
+       elo - adm. de planos de saúde;2.11.19.00.00;;;-4612,99
+       fhe - emprestimo;2.11.19.00.00;;;-623,55
+       mensalidade atricon;2.11.19.00.00;;;-1050,00
+       mongeral-previdencia privada;2.11.19.00.00;;;-79,85
+       sicoob - capital social 1% s/venc.;2.11.19.00.00;;;-192,50
+       sicoob legisl - empréstimo;2.11.19.00.00;;;-380,45
+       sindical-sind serv cldf/tcdf;2.11.19.00.00;;;-2453,15
+       sindireta-df 0.5% remun.bruta;2.11.19.00.00;;;-20642,71
+;PROVENTOS;DESCONTOS;SALDO
+SUBTOTAIS;5959460,07;1964,75;5957495,32
+TOTAL DE PROVENTOS;21197309,03
+TOTAL DE DESCONTOS;8590986,5
+TOTAL POR FUNDO DE PREVIDÊNCIA;12606322,53
+;VALOR EMPREGADOR;VALOR EMPREGADOR 13º;VALOR DEV.EMPREGADOR;VALOR DEV.EMPREGADOR 13º
+PATRONAL FUNDO FINANCEIRO;2.824.629,18;31.342,03;0,00;0,00;2.855.971,21

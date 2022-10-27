@@ -1,0 +1,78 @@
+;;PROVENTOS;;
+ELEM.DESPESAS;CLASS.ORC;CLASS.PASS;PROVENTOS;DESCONTOS;SALDO
+VENCIMENTO BÁSICO;31.90.11.01;211110101;13926,97;-35545,83;-21618,86
+       adiant. ferias 40% liquido;31.90.11.01;;6209,73
+       dif. parc.indiv.fixa-l.3172/03;31.90.11.01;;29,94
+       parc.indiv.fixa-l.3172/03;31.90.11.01;;7687,30
+       dev. adiant. ferias 40% liquido;31.90.11.01;;;-30748,56
+       ressarcimento ao erario s/inc.-ativo;31.90.11.01;;;-4797,27
+EMPREGO EM COMISSÃO/FUNÇÃO GRATIFICADA;31.90.11.02;211110101;8887,79;;8887,79
+       opcao 55% s/venc;31.90.11.02;;8887,79
+ADICIONAL POR TEMPO DE SERVIÇO (ANUÊNIO);31.90.11.04;211110101;4461,15;;4461,15
+       adicional tempo de servico;31.90.11.04;;4461,15
+ADIC. DE INSALUBRIDADE;31.90.11.07;211110101;1003,14;;1003,14
+       dif. adicional de insalubridade s/p;31.90.11.07;;1003,14
+FÉRIAS 1/3 CONTITUCIONAL ;31.90.11.32;211110103;30120,85;;30120,85
+       adicional de ferias c/p;31.90.11.32;;30120,85
+GRATIFICAÇÃO DE REPRESENTAÇÃO;31.90.11.56;211110101;45250,73;;45250,73
+       representação;31.90.11.56;;45250,73
+REPRESENTAÇÃO E VENCIMENTO;31.90.11.67;211110101;1456250,59;;1456250,59
+       dif. representação;31.90.11.67;;3042,50
+       dif. vencimento comissionado;31.90.11.67;;967,66
+       função de confiança c/p (rgps);31.90.11.67;;11918,47
+       representação;31.90.11.67;;1074207,79
+       vencimento comissionado;31.90.11.67;;366114,17
+SUBSTITUIÇOES;31.90.16.02;;9849,40;;9849,40
+       substituicao art 58 res 10/86 c/p;31.90.16.02;;9849,40
+INDENIZACAO DE FERIAS;31.90.94.01;;45768,32;;45768,32
+       abono pecuniario;31.90.94.01;;40161,11
+       ferias proporcionais;31.90.94.01;;5607,21
+AUXILIO ASSISTÊNCIA MÉDICA;33.90.08.11;;228944,06;;228944,06
+       dif. reembolso pró-saúde;33.90.08.11;;2256,52
+       reembolso pró-saúde;33.90.08.11;;226687,54
+AUXILIO-CRECHE;33.90.08.55;;19498,40;;19498,40
+       aux.pre-escolar res.250/2013;33.90.08.55;;19498,40
+AUXÍLIO ALIMENTAÇÃO  -  CIVIL;33.90.46.02;;200618,03;-72,66;200545,37
+       auxilio alimentacao / comissionado;33.90.46.02;;198220,20
+       dif. auxilio alimentacao / comissionado;33.90.46.02;;2397,83
+       dev. auxilio alimentacao / comissionado;33.90.46.02;;;-72,66
+AUXÍLIO TRANSPORTE;33.90.49.01;;435,80;-272,81;162,99
+       dif. auxilio transporte;33.90.49.01;;435,80
+       dif. desconto auxilio transporte;33.90.49.01;;;-272,81
+RESTITUIÇÕES DE CURSOS;33.90.93.15;;2454,69;;2454,69
+       bolsa integral de estudo/curso;33.90.93.15;;2291,67
+       bolsa parcial estudo-ate 50%;33.90.93.15;;163,02
+RESTITUIÇÕES DE SERVICOS DIVERSOS;33.90.93.17;;11178,05;;11178,05
+       indenização telef/dados;33.90.93.17;;11178,05
+PROVENTOS;DESCONTOS;SALDO
+2078647,97;35891,3;2042756,67
+;;DESCONTOS;;
+ELEM.DESPESAS;CLASS.ORC;CLASS.CONT;RECEITA;DESPESA;SALDO
+INSS DE SERVIDORES CELETISTAS;2.11.11.02.00;218830102;101062,36;;101062,36
+       inss;2.11.11.02.00;;;-101062,36
+PENSAO ALIMENTÍCIA;2.11.12.00.00;218810110;16222,20;;16222,20
+       pensao alimenticia (1);2.11.12.00.00;;;-9475,41
+       pensao alimenticia (1) - ferias;2.11.12.00.00;;;-1472,94
+       pensao alimenticia (2);2.11.12.00.00;;;-3637,25
+       pensao alimenticia (2) - ferias;2.11.12.00.00;;;-1636,60
+IRRF SERVIDORES;2.11.13.01.00;218820104;293725,79;;293725,79
+       irrf;2.11.13.01.00;;;-292734,52
+       irrf - 13º salário;2.11.13.01.00;;;-991,27
+OUTRAS CONSIGNAÇÕES;2.11.19.00.00;218810199;323248,67;;323248,67
+       assecon - contribuicao;2.11.19.00.00;;;-1471,94
+       assecon - descontos diversos;2.11.19.00.00;;;-1543,13
+       assecon - sesc mensalidade;2.11.19.00.00;;;-26,00
+       assefaz - contribuição mensal;2.11.19.00.00;;;-1565,51
+       assefaz - fund. assist. serv. mf;2.11.19.00.00;;;-206261,71
+       assefaz - seguro de vida;2.11.19.00.00;;;-2448,20
+       bb - empréstimo;2.11.19.00.00;;;-12274,01
+       bradesco - empréstimos;2.11.19.00.00;;;-4483,59
+       brb - emprestimo;2.11.19.00.00;;;-81863,50
+       cef/tcdf - emprestimo;2.11.19.00.00;;;-8064,45
+       elo - adm. de planos de saúde;2.11.19.00.00;;;-2625,00
+       mongeral-previdencia privada;2.11.19.00.00;;;-373,70
+       sindireta-df 0.5% remun.bruta;2.11.19.00.00;;;-247,93
+;RECEITA;DESPESAS;SALDO
+SUBTOTAIS;734259,02;0;734259,02
+TOTAL DE DESCONTOS;770150,32
+TOTAL DA FOLHA (Líquido);1308497,65

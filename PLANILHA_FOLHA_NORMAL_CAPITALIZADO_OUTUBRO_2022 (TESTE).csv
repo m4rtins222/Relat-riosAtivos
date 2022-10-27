@@ -1,0 +1,105 @@
+;;PROVENTOS;;
+ELEM.DESPESAS;CLASS.ORC;CLASS.PASS;PROVENTOS;DESCONTOS;SALDO
+VENCIMENTO BÁSICO;31.90.11.01;211110101;2723733,33;-295281,82;2428451,51
+       dif. vencimento;31.90.11.01;;3064,17
+       parc.indiv.fixa-l.3172/03;31.90.11.01;;6944,92
+       vencimento efetivo;31.90.11.01;;2713724,24
+       abate teto art. 37 cf c/ previd;31.90.11.01;;;-47420,26
+       abate teto art. 37 cf s/ previd;31.90.11.01;;;-180094,95
+       dev. adiant. ferias 40% liquido;31.90.11.01;;;-37426,38
+       dif. abate teto art. 37 cf s/ previd;31.90.11.01;;;-28144,05
+       ressarcimento ao erario s/inc.-ativo;31.90.11.01;;;-2196,18
+EMPREGO EM COMISSÃO/FUNÇÃO GRATIFICADA;31.90.11.02;211110101;226312,91;-866,46;225446,45
+       dif. opcao 55% s/venc s/p;31.90.11.02;;491,02
+       funcao de confiança;31.90.11.02;;203640,36
+       opcao 55% s/venc s/p;31.90.11.02;;22181,53
+       dev. funcao de confiança;31.90.11.02;;;-866,46
+ADICIONAL POR TEMPO DE SERVIÇO (ANUÊNIO);31.90.11.04;211110101;154799,68;;154799,68
+       adicional tempo de servico;31.90.11.04;;154203,69
+       dif. adicional tempo de servico;31.90.11.04;;595,99
+ADIC. DE INSALUBRIDADE;31.90.11.07;211110101;5125,64;;5125,64
+       dif. adicional de insalubridade s/p;31.90.11.07;;5125,64
+DÉCIMO TERCEIRO SALARIO - PESSSOAL CIVIL;31.90.11.21;;138370,11;-64,85;138305,26
+       13º salário;31.90.11.21;;128391,11
+       13º salario - cc/fc;31.90.11.21;;9459,64
+       dif. 13º salário;31.90.11.21;;519,36
+       abate teto 13º salário s/ previd;31.90.11.21;;;-64,85
+GRATIFICAÇÃO POR TITULAÇÃO - GTIT;31.90.11.23;;351298,55;;351298,55
+       adicional de qualificação;31.90.11.23;;346754,40
+       dif. adicional de qualificação;31.90.11.23;;4544,15
+LICENCA PREMIO ASSIDUIDADE - ATIVOS;31.90.11.25;211110104;116953,86;;116953,86
+       lic.- premio pecúnia - art. 6º lc 952/19;31.90.11.25;;116953,86
+FÉRIAS 1/3 CONTITUCIONAL ;31.90.11.32;211110103;38101,55;;38101,55
+       adicional de ferias s/p;31.90.11.32;;38101,55
+GRATIFICAÇÃO DE REPRESENTAÇÃO;31.90.11.56;211110101;126199,22;;126199,22
+       dif. representação s/p;31.90.11.56;;2737,82
+       representação s/p;31.90.11.56;;123461,40
+GRATIFICAÇÃO DE ATIVIDADE DE CONTROLE EXTERNO;31.90.11.57;211110101;81503,28;;81503,28
+       dif. gace 3% s/venc;31.90.11.57;;91,98
+       gace 3% s/venc;31.90.11.57;;81411,30
+SUBSTITUIÇOES;31.90.16.02;;37046,42;;37046,42
+       substituicao art 58 res 10/86 s/p;31.90.16.02;;37046,42
+INDENIZACAO DE FERIAS;31.90.94.01;;24651,27;;24651,27
+       abono pecuniario;31.90.94.01;;24651,27
+AUXILIO ASSISTÊNCIA MÉDICA;33.90.08.11;;176940,71;;176940,71
+       dif. reembolso pró-saúde;33.90.08.11;;2535,11
+       reembolso pró-saúde;33.90.08.11;;174405,60
+AUXILIO-CRECHE;33.90.08.55;;60087,57;;60087,57
+       aux.pre-escolar res.250/2013;33.90.08.55;;59470,12
+       dif. aux. pre-escolar res.250/2013;33.90.08.55;;617,45
+SERVIÇOS DE SELEÇÃO E APERFEIÇOAMENTO;33.90.36.10;;5564,07;;5564,07
+       grat.encargo curso/concurso;33.90.36.10;;5564,07
+AUXÍLIO ALIMENTAÇÃO  -  CIVIL;33.90.46.02;;185431,80;;185431,80
+       auxilio alimentacao;33.90.46.02;;185431,80
+RESTITUIÇÕES DE CURSOS;33.90.93.15;;8362,97;;8362,97
+       bolsa integral de estudo/curso;33.90.93.15;;7110,26
+       bolsa parcial estudo-ate 50%;33.90.93.15;;1252,71
+RESTITUIÇÕES DE SERVICOS DIVERSOS;33.90.93.17;;555,43;;555,43
+       indenização telef/dados;33.90.93.17;;555,43
+PROVENTOS;DESCONTOS;SALDO
+4461038,37;296213,13;4164825,24
+;;DESCONTOS;;
+ELEM.DESPESAS;CLASS.ORC;CLASS.CONT;PROVENTOS;DESCONTOS;SALDO
+INSS DE SERVIDORES ESTATUTÁRIOS;2.11.11.01.00;421110201;272303,95;;272303,95
+       df-previcom - contrib. facultativa;2.11.11.01.00;218810111;;-625,81
+       dif. prevcom normal;2.11.11.01.00;218810111;;-587,86
+       dif. prevcom normal - 13º salário;2.11.11.01.00;218810111;;-44,14
+       prevcom normal;2.11.11.01.00;218810111;;-142307,96
+       prevcom normal - 13º salário;2.11.11.01.00;218810111;;-6696,35
+       rpc/iprev - seg. social - fundo capitalizado;2.11.11.01.00;;;-115096,36
+       seg. social 13º salário - fundo capitalizado;2.11.11.01.00;;;-6945,47
+PENSAO ALIMENTÍCIA;2.11.12.00.00;218810110;11476,09;;11476,09
+       pensao alimenticia (1);2.11.12.00.00;;;-11476,09
+IRRF SERVIDORES;2.11.13.01.00;218820104;798683,13;;798683,13
+       dif. irrf;2.11.13.01.00;;;-397,28
+       dif. irrf - 13º salário;2.11.13.01.00;;;-104,55
+       irrf;2.11.13.01.00;;;-770205,38
+       irrf - 13º salário;2.11.13.01.00;;;-27975,92
+OUTRAS CONSIGNAÇÕES;2.11.19.00.00;218810199;309589,12;;309589,12
+       afinco;2.11.19.00.00;;;-1425,00
+       assecon - amil;2.11.19.00.00;;;-3721,61
+       assecon - asbac;2.11.19.00.00;;;-299,00
+       assecon - contribuicao;2.11.19.00.00;;;-4668,01
+       assecon - descontos diversos;2.11.19.00.00;;;-5639,79
+       assefaz - contribuição mensal;2.11.19.00.00;;;-1014,93
+       assefaz - fund. assist. serv. mf;2.11.19.00.00;;;-165943,23
+       assefaz - seguro de vida;2.11.19.00.00;;;-332,59
+       banco alfa - emprestimos;2.11.19.00.00;;;-5166,70
+       bb - empréstimo;2.11.19.00.00;;;-39146,19
+       bradesco - empréstimos;2.11.19.00.00;;;-21785,25
+       brb - emprestimo;2.11.19.00.00;;;-21433,72
+       cef/tcdf - emprestimo;2.11.19.00.00;;;-35977,96
+       dif. assecon - contribuicao;2.11.19.00.00;;;-14,83
+       dif. sindireta-df 0.5% remun.bruta;2.11.19.00.00;;;-0,75
+       elo - adm. de planos de saúde;2.11.19.00.00;;;-1627,31
+       sindical-sind serv cldf/tcdf;2.11.19.00.00;;;-355,79
+       sindireta-df 0.5% remun.bruta;2.11.19.00.00;;;-1036,46
+;PROVENTOS;DESCONTOS;SALDO
+SUBTOTAIS;1392052,29;0;1392052,29
+TOTAL DE PROVENTOS;4461038,37
+TOTAL DE DESCONTOS;1688265,42
+TOTAL POR FUNDO DE PREVIDÊNCIA;2772772,95
+;VALOR EMPREGADOR;VALOR EMPREGADOR 13º;VALOR DEV.EMPREGADOR;VALOR DEV.EMPREGADOR 13º;TOTAL
+PATRONAL FUNDO CAPITALIZADO;230.191,56;13.890,87;0,00;0,00;244.082,43
+;VLR EMPREGADOR - MÊS DA FOLHA;VLR 13º;DIF.OUTROS MESES;TOTAL
+PATRONAL PREVICOM;142307.96;6740.49;587.86;149636.31
